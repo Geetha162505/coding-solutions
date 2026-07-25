@@ -57,7 +57,7 @@ $ 2 < shoe \ size < 20 $
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-07-25T08:28:16.209Z  
+**Submitted:** 2026-07-25T08:28:36.824Z  
 
 ```cpp
 # Enter your code here. Read input from STDIN. Print output to STDOUT
